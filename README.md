@@ -68,9 +68,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 ```bash
 # npm
-npm 
 npm install @oruga-ui/oruga-next --save
-
 
 # pnpm
 pnpm install @oruga-ui/oruga-next --save
@@ -111,14 +109,14 @@ export default defineNuxtConfig({
 
 ## Add Oruga Bulma:
 
-```
-npm:
+``` bash
+# npm
 npm install @oruga-ui/theme-bulma
 
-pnpm:
+# pnpm
 pnpm install @oruga-ui/theme-bulma
 
-yarn:
+# yarn
 yarn add @oruga-ui/theme-bulma
 ```
 
